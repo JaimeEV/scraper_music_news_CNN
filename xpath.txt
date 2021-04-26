@@ -1,0 +1,4 @@
+CNN Musica
+links = //h2[@class="news__title"]/a/@href
+Titulo = //div[@class="news__data"]/h1[@class="news__title"]/text()
+CONTENIDO = //div[@class="news__excerpt"]/p/text()
